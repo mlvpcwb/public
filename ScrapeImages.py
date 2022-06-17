@@ -31,7 +31,7 @@ for image in images:
   #Print das URLs no console
   print(index, image_src, filename)
 
-  #Download das imagens na pasta /images/
-  urllib.request.urlretrieve(image_src, "images/" + str(index) + "_" + filename)
+  #Download das imagens
+  urllib.request.urlretrieve(image_src, str(index) + "_" + filename)
   index += 1
 #Fim do loop
