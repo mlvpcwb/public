@@ -21,8 +21,8 @@ index = 0
 
 for image in images:
   #variaveis do loop
+  image_src =  image["src"]
   filename = os.path.basename(image_src)
-  image_src =  image["src"]  
 
   #Reconstroi [image_src] se URL é relativa
   if image_src.find("http")!=-0:
