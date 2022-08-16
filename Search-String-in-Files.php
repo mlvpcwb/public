@@ -1,4 +1,4 @@
-<!-- Faça o upload desse arquivo na pasta em que deseja fazer a busca por "string" em seu servidor e utilize o campo de busca para mapear todos os arquivos que contenham essa string em seu servidor -->
+/* Faça o upload desse arquivo na pasta em que deseja fazer a busca por "string" em seu servidor e utilize o campo de busca para mapear todos os arquivos que contenham essa string em seu servidor */
 
 <form method="GET">
   <p>
