@@ -1,4 +1,5 @@
-/* Faça o upload desse arquivo na pasta onde estão os arquivos em que deseja fazer a busca por "string" em seu servidor e utilize o campo de busca para encontrar todos os arquivos que contenham a "string de busca" em seu servidor web */
+/* (FSF) Find String in your Files 
+/* Upload this file, and use de UI to search text strings in files in your server.
 
 <form method="GET">
   <p>
@@ -98,3 +99,6 @@ if (isset($_GET["submit"]))
     <?php
   }
 }
+
+/* PT - Faça o upload desse arquivo na pasta onde estão os arquivos em que deseja fazer a busca por "string" em seu servidor e utilize o campo de busca para encontrar todos os arquivos que contenham a "string de busca" em seu servidor web */
+/* @mlvpcwb
