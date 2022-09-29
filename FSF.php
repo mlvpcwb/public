@@ -1,4 +1,4 @@
-/* (FSF) Find String in your Files 
+/* FSF - Find String in your Files 
 /* Upload this file, and use de UI to search text strings in files in your server.
 
 <form method="GET">
